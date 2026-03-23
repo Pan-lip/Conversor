@@ -5,3 +5,5 @@ Fiz um programa em Java que converte unidades muito usadas na engenharia. É sim
 Suas funcionalidades incluem a conversão de: N → kgf, kPa → bar, PSI → bar, cm² → m².
 
 O programa primeiro vai mostrar um menu com 4 opções de conversão, você escolhe a conversão de que gostaria e o programa irá validar se é uma opção válida, em seguida digite o valor e o programa irá calcular e mostrar o resultado, em seguida perguntará se gostaria de outra conversão, se digitado a opção "2-Não" o programa encerrará o looping.
+
+Minha contribuição, fiz todas as partes sozinha desde o planejamento, até implementar o código e estrutura, fiz todos os testes e documentei.
